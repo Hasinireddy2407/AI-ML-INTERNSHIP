@@ -12,3 +12,5 @@ Opens the webcam and detects body landmarks like shoulders, elbows, hips and kne
 
 ### What I Learned
 Pose detection is a computer vision technique that uses AI to detect and track key points on the human body in real time. This is the core technology used in virtual try-on apps, fitness tracking and gesture recognition.
+## Output 
+<img width="1920" height="1022" alt="Screenshot (332)" src="https://github.com/user-attachments/assets/7dd3a431-8c2d-4960-96ca-364b18cb340b" />
