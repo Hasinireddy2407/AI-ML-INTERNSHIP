@@ -23,7 +23,6 @@ Out of the box, MediaPipe works well but there are situations where it struggles
 ## Key Landmarks for Virtual Try-On
 
 Not all 33 landmarks are needed for clothing overlay. The most important ones are the left and right shoulders, left and right elbows, left and right wrists, and left and right hips. The distance between the two shoulder landmarks in pixels is called the shoulder width and is used to scale the garment to the correct size for that person.
-<img width="1600" height="808" alt="image" src="https://github.com/user-attachments/assets/c5b8842c-4010-40a3-bc0a-2c02090cef12" />
 
 
 ### Ouptput Observation
