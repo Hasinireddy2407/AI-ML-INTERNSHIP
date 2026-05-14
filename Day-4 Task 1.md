@@ -23,11 +23,16 @@ Out of the box, MediaPipe works well but there are situations where it struggles
 ## Key Landmarks for Virtual Try-On
 
 Not all 33 landmarks are needed for clothing overlay. The most important ones are the left and right shoulders, left and right elbows, left and right wrists, and left and right hips. The distance between the two shoulder landmarks in pixels is called the shoulder width and is used to scale the garment to the correct size for that person.
+<img width="1600" height="808" alt="image" src="https://github.com/user-attachments/assets/c5b8842c-4010-40a3-bc0a-2c02090cef12" />
 
 
-##  Output Tells You
+### Ouptput Observation
 
-After running pose detection you get the pixel coordinates of each detected landmark, the visibility score for each one, and the shoulder width measurement. If visibility scores for the shoulders are above `0.9` the detection is very reliable. If they are below `0.5` the garment overlay will likely be inaccurate and the image should be retaken with better conditions.
+Today's pose detection output is significantly more accurate compared to yesterday. 
+The improved accuracy is mainly due to better lighting conditions during testing. 
+With proper front-facing light, the model was able to detect all 33 landmarks 
+clearly with high visibility scores above 0.9 for key joints like shoulders and hips.
+<img width="1572" height="1022" alt="Screenshot (344)" src="https://github.com/user-attachments/assets/93b6c642-0c0f-4a85-abe0-e07728449014" />
 
 
 
