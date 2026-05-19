@@ -20,7 +20,6 @@ def calculate_distance(p1, p2, w, h):
 image_path = r"C:\Users\user\Downloads\person1.png"
 
 image = cv2.imread(image_path)
-image = cv2.resize(image, (600, 900))
 
 if image is None:
     print("Image not found. Check your path.")
