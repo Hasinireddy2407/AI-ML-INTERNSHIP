@@ -1,0 +1,61 @@
+brand,gender,garment_type,size,shoulder_width_cm,chest_cm,waist_cm,hip_cm,sleeve_length_cm,torso_length_cm,inseam_length_cm,fit_type
+Fabindia,Women,Kurta,XS,34,78,64,82,58,60,0,Relaxed
+Fabindia,Women,Kurta,S,36,82,68,86,60,62,0,Relaxed
+Fabindia,Women,Kurta,M,38,86,72,90,62,64,0,Relaxed
+Fabindia,Women,Kurta,L,40,90,76,94,64,66,0,Relaxed
+Fabindia,Women,Kurta,XL,42,94,80,98,66,68,0,Relaxed
+Fabindia,Women,Kurta,XXL,44,98,84,102,68,70,0,Relaxed
+Biba,Women,Kurta,XS,33.5,76,62,80,57,59,0,Regular
+Biba,Women,Kurta,S,35.5,80,66,84,59,61,0,Regular
+Biba,Women,Kurta,M,37.5,84,70,88,61,63,0,Regular
+Biba,Women,Kurta,L,39.5,88,74,92,63,65,0,Regular
+Biba,Women,Kurta,XL,41.5,92,78,96,65,67,0,Regular
+Biba,Women,Kurta,XXL,43.5,96,82,100,67,69,0,Regular
+W,Women,Dress,XS,33,75,61,79,56,58,36,Slim
+W,Women,Dress,S,35,79,65,83,58,60,38,Slim
+W,Women,Dress,M,37,83,69,87,60,62,40,Slim
+W,Women,Dress,L,39,87,73,91,62,64,42,Slim
+W,Women,Dress,XL,41,91,77,95,64,66,44,Slim
+W,Women,Dress,XXL,43,95,81,99,66,68,46,Slim
+Westside,Women,Top,XS,34.5,77,63,81,57.5,59.5,0,Regular
+Westside,Women,Top,S,36.5,81,67,85,59.5,61.5,0,Regular
+Westside,Women,Top,M,38.5,85,71,89,61.5,63.5,0,Regular
+Westside,Women,Top,L,40.5,89,75,93,63.5,65.5,0,Regular
+Westside,Women,Top,XL,42.5,93,79,97,65.5,67.5,0,Regular
+Westside,Women,Top,XXL,44.5,97,83,101,67.5,69.5,0,Regular
+Van Heusen,Men,Shirt,XS,36,82,71,70,52,60,53,Regular
+Van Heusen,Men,Shirt,S,38,86,75,74,54,62,55,Regular
+Van Heusen,Men,Shirt,M,40,90,79,78,56,64,57,Regular
+Van Heusen,Men,Shirt,L,42,94,83,82,58,66,59,Regular
+Van Heusen,Men,Shirt,XL,44,98,87,86,60,68,61,Regular
+Van Heusen,Men,Shirt,XXL,46,102,91,90,62,70,63,Regular
+Arrow,Men,Shirt,XS,35.5,80,70,69,51,59,52,Slim
+Arrow,Men,Shirt,S,37.5,84,74,73,53,61,54,Slim
+Arrow,Men,Shirt,M,39.5,88,78,77,55,63,56,Slim
+Arrow,Men,Shirt,L,41.5,92,82,81,57,65,58,Slim
+Arrow,Men,Shirt,XL,43.5,96,86,85,59,67,60,Slim
+Arrow,Men,Shirt,XXL,45.5,100,90,89,61,69,62,Slim
+Raymond,Men,Shirt,XS,36.5,83,72,71,52.5,60.5,53.5,Regular
+Raymond,Men,Shirt,S,38.5,87,76,75,54.5,62.5,55.5,Regular
+Raymond,Men,Shirt,M,40.5,91,80,79,56.5,64.5,57.5,Regular
+Raymond,Men,Shirt,L,42.5,95,84,83,58.5,66.5,59.5,Regular
+Raymond,Men,Shirt,XL,44.5,99,88,87,60.5,68.5,61.5,Regular
+Raymond,Men,Shirt,XXL,46.5,103,92,91,62.5,70.5,63.5,Regular
+Manyavar,Men,Kurta,XS,36,82,71,70,52,72,0,Relaxed
+Manyavar,Men,Kurta,S,38,86,75,74,54,74,0,Relaxed
+Manyavar,Men,Kurta,M,40,90,79,78,56,76,0,Relaxed
+Manyavar,Men,Kurta,L,42,94,83,82,58,78,0,Relaxed
+Manyavar,Men,Kurta,XL,44,98,87,86,60,80,0,Relaxed
+Manyavar,Men,Kurta,XXL,46,102,91,90,62,82,0,Relaxed
+Jockey,Men,T-Shirt,XS,35,80,69,68,50,58,0,Slim
+Jockey,Men,T-Shirt,S,37,84,73,72,52,60,0,Slim
+Jockey,Men,T-Shirt,M,39,88,77,76,54,62,0,Slim
+Jockey,Men,T-Shirt,L,41,92,81,80,56,64,0,Slim
+Jockey,Men,T-Shirt,XL,43,96,85,84,58,66,0,Slim
+Jockey,Men,T-Shirt,XXL,45,100,89,88,60,68,0,Slim
+Jockey,Women,T-Shirt,XS,33,74,60,78,55,57,0,Slim
+Jockey,Women,T-Shirt,S,35,78,64,82,57,59,0,Slim
+Jockey,Women,T-Shirt,M,37,82,68,86,59,61,0,Slim
+Jockey,Women,T-Shirt,L,39,86,72,90,61,63,0,Slim
+Jockey,Women,T-Shirt,XL,41,90,76,94,63,65,0,Slim
+Jockey,Women,T-Shirt,XXL,43,94,80,98,65,67,0,Slim
